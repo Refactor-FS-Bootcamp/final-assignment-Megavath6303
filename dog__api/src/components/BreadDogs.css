@@ -1,0 +1,31 @@
+.breed__container{
+    background-color: rgb(22, 22, 73);
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    height: 200px;
+    width: 250px;
+    float: left;
+    margin: 10px;
+    position: relative;
+    left: 80px;
+    padding-top: 80px;
+    border-radius: 10px;
+    -webkit-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+-moz-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+box-shadow: -1px -1px 7px 0px rgb(31, 14, 31);
+}
+.breed__container:hover{
+    background-color: rgb(23, 78, 23);
+}
+.bttn{
+    background-color: rgb(27, 27, 53);
+    color: aliceblue;
+    -webkit-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+    -moz-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+    box-shadow: -1px -1px 7px 0px rgb(31, 14, 31);
+    border-radius: 10px;
+    margin: 30px;
+    position: relative;
+    left:27%;
+}

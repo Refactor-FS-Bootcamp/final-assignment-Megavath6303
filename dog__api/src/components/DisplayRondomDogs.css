@@ -1,0 +1,48 @@
+.page2{
+    background-color: rgb(12, 67, 87);
+    height: 100vh;
+    padding: 70px 150px;
+
+}
+.random_dogs_container{
+    background-color: rgb(12, 12, 35);
+    height: 80vh;
+    width: 80vw;
+    padding: 50px;
+    
+}
+.random__Dogs{
+    display: inline;
+
+}
+img{
+    height: 250px;
+    width: 280px;
+    margin: 10px;
+    border-radius: 10px ;
+    -webkit-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+-moz-box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+box-shadow: -1px -1px 7px 0px rgba(255,252,255,1);
+}
+.btn{
+   padding: 10px 40px;
+   margin-top: 50px;
+   font-size: 18px;
+   font-weight: 700;
+   cursor: pointer;
+   transition: 0.4s;
+   margin-left: 10px;
+   text-decoration: none;
+   background-color: white;
+   color: black;
+}
+
+.btn:hover{
+    border: none;
+    background-color: rgb(73, 74, 48);
+    color: white;
+}
+p{
+    color: white;
+    padding: 30px;
+}
